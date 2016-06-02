@@ -1,12 +1,10 @@
 import koa from 'koa';
-import koaRouter from 'koa-router';
+import bodyParser from 'koa-bodyparser';
+import router from './routes';
 
 const app = koa();
-const router = koaRouter();
 
-router.get('/', function * (next) {
-  this.body = "hi";
-});
+app.use(bodyParser());
 
 app
   .use(router.routes())

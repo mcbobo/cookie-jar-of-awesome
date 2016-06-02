@@ -4,7 +4,8 @@
   "description": "Server",
   "main": "server.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "npm start": "bable-node server.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,13 @@
   },
   "homepage": "https://github.com/mcbobo/cookie-jar-of-awesome#readme",
   "dependencies": {
-    "koa": "^2.0.0"
+    "koa": "^2.0.0",
+    "koa-router": "^7.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0"
   }
 }

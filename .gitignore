@@ -4,5 +4,6 @@ node_modules
 
 *.vim
 
-build
-cja-native-app/ios
+ios/build
+
+.DS_Store

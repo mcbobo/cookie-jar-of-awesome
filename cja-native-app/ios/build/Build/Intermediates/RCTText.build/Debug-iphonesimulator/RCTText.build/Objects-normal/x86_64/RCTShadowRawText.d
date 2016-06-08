@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/boli/Dev/CookieJarOfAwesome/node_modules/react-native/Libraries/Text/RCTShadowRawText.m \
-  /Users/boli/Dev/CookieJarOfAwesome/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/boli/Dev/cja/cja-native-app/node_modules/react-native/Libraries/Text/RCTShadowRawText.m \
+  /Users/boli/Dev/cja/cja-native-app/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
   ../../React/Views/RCTShadowView.h ../../React/Layout/Layout.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTRootView.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \

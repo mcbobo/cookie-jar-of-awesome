@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/boli/Dev/CookieJarOfAwesome/node_modules/react-native/Libraries/Text/RCTTextField.m \
-  /Users/boli/Dev/CookieJarOfAwesome/node_modules/react-native/Libraries/Text/RCTTextField.h \
+  /Users/boli/Dev/cja/cja-native-app/node_modules/react-native/Libraries/Text/RCTTextField.m \
+  /Users/boli/Dev/cja/cja-native-app/node_modules/react-native/Libraries/Text/RCTTextField.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTConvert.h \
   ../../React/Layout/Layout.h ../../React/Views/RCTAnimationType.h \
   ../../React/Views/RCTBorderStyle.h \

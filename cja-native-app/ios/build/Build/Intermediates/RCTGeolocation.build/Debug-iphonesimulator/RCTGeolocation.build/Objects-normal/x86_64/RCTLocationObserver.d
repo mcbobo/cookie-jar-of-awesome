@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/boli/Dev/CookieJarOfAwesome/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
-  /Users/boli/Dev/CookieJarOfAwesome/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
+  /Users/boli/Dev/cja/cja-native-app/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
+  /Users/boli/Dev/cja/cja-native-app/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
   ../../React/Base/RCTAssert.h ../../React/Base/RCTBridge.h \
   ../../React/Base/RCTBridgeDelegate.h ../../React/Base/RCTFrameUpdate.h \

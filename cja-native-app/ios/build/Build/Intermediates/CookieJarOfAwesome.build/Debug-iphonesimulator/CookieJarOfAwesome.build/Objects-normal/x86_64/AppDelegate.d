@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/boli/Dev/CookieJarOfAwesome/ios/CookieJarOfAwesome/AppDelegate.m \
-  /Users/boli/Dev/CookieJarOfAwesome/ios/CookieJarOfAwesome/AppDelegate.h \
+  /Users/boli/Dev/cja/cja-native-app/ios/CookieJarOfAwesome/AppDelegate.m \
+  /Users/boli/Dev/cja/cja-native-app/ios/CookieJarOfAwesome/AppDelegate.h \
   ../node_modules/react-native/React/Base/RCTRootView.h \
   ../node_modules/react-native/React/Base/RCTBridge.h \
   ../node_modules/react-native/React/Base/RCTBridgeDelegate.h \

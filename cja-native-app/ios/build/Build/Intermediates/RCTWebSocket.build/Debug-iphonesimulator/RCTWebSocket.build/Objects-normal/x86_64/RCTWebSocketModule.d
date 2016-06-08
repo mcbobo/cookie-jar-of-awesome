@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/boli/Dev/CookieJarOfAwesome/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.m \
-  /Users/boli/Dev/CookieJarOfAwesome/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.h \
+  /Users/boli/Dev/cja/cja-native-app/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.m \
+  /Users/boli/Dev/cja/cja-native-app/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
-  /Users/boli/Dev/CookieJarOfAwesome/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/boli/Dev/cja/cja-native-app/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h \
   ../../React/Base/RCTBridge.h ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \
   ../../React/Base/RCTJavaScriptExecutor.h \

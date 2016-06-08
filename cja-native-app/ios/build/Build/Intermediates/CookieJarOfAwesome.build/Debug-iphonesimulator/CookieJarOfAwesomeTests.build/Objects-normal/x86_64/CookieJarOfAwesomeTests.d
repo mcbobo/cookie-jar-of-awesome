@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/boli/Dev/CookieJarOfAwesome/ios/CookieJarOfAwesomeTests/CookieJarOfAwesomeTests.m \
+  /Users/boli/Dev/cja/cja-native-app/ios/CookieJarOfAwesomeTests/CookieJarOfAwesomeTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \
